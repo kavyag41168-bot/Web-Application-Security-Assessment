@@ -10,7 +10,8 @@
 | **Program** | Networkwalks Internship |
 | **Assessment type** | Black-box web application assessment |
 | **Authorization** | The original report states that written permission was granted for the project |
-| **Researcher** | [Your Name] |
+
+[view penetration testing report](https://github.com/kavyag41168-bot/Web-Application-Security-Assessment/blob/fe2f9b9c3c8122869f168d121373cfe51c653127/Mediroza_Hospital_Pentest_Report.pdf)
 
 This assessment examined how exposed files, weak access controls, and weak document passwords could put sensitive information at risk. The report describes access to confidential documents and a database backup containing employee and shareholder information.
 
