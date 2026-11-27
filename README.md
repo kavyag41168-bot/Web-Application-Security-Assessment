@@ -109,10 +109,9 @@ This project provided experience with:
 
 This README summarizes an educational project report. The reported findings, authorization, and impact have not been independently verified. Security testing should only be performed with explicit written authorization and within the approved scope.
 
-This public summary excludes target identifiers, credentials, personal records, and raw evidence to reduce the risk of disclosure.
+This public summary excludes target identifiers, credentials, personal records, and raw evidence to reduce the risk o
 
-## 👨‍💻 Author
 
-[Your Name]
+🔐Project Category:
+Cybersecurity · Web Application Penetration Testing · Vulnerability Assessment & Remediation
 
-**Project:** Networkwalks Week 4 Penetration Testing
